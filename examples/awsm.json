@@ -37,6 +37,7 @@
       "method": "GET",
       "authorizationType": "none",
       "apiKeyRequired": false,
+      "credentials": "",
       "requestTemplates": {},
       "requestParameters": {},
       "responses": {
